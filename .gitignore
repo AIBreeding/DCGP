@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+/model/
+/hf-release/
+/results/
+/predict_out/
+/sequence/sa.pt
+/sequence/embedding.txt
